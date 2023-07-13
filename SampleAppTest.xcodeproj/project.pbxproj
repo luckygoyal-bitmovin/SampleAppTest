@@ -382,8 +382,8 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/luckygoyal-bitmovin/AdvancedFrameworkPackage.git";
 			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 1.0.0;
+				branch = "feature/add-tvos-support";
+				kind = branch;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
