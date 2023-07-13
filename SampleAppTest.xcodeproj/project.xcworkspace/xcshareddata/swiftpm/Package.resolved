@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/luckygoyal-bitmovin/AdvancedFrameworkPackage.git",
       "state" : {
-        "branch" : "feature/add-tvos-support",
-        "revision" : "e8e3d88dcab9a0d726409604c70626c05c39fa3a"
+        "revision" : "1041b0e4b6d04a5c291fafcd48c214833029be77",
+        "version" : "1.1.0"
       }
     },
     {
